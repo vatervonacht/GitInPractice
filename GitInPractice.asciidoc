@@ -3,3 +3,4 @@
 Git In Practice makes Git In Perfect!
 // TODO: Is this funny?
 // TIM
+// Rozmajzl
